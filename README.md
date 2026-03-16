@@ -4,7 +4,7 @@
 
 Este proyecto implementa un proceso de **extracción de datos (ETL)** para un sistema de análisis de opiniones de clientes. El objetivo principal es recopilar información proveniente de diferentes fuentes de datos y centralizarla para su posterior análisis.
 
-El sistema fue desarrollado utilizando **.NET 9** y un **Worker Service**, lo que permite ejecutar procesos de extracción de datos en segundo plano de forma automatizada.
+se desarrolló un servicio utilizando **C#, .NET 9** y un **Worker Service**, lo que permite ejecutar procesos de extracción de datos en segundo plano de forma automatizada.
 
 Las fuentes de datos utilizadas incluyen archivos CSV, una base de datos relacional y una API REST que proporciona comentarios externos de clientes.
 
